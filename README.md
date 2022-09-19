@@ -1,7 +1,5 @@
 # Projeto Login e senha ECS
 
-Um parágrafo da descrição do projeto vai aqui
-
 ## 🚀 Começando
 
 Sistema basico com enfoque simples e objetivo de proporcionar uma tela de login e logout com senha e user e demais funcionalidades base.
